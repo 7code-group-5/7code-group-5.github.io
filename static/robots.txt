@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7code-group-5.github.io/sitemap.xml
